@@ -45,12 +45,15 @@ Result-driven **Full-Stack Software Engineer** specializing in robust Backend Ar
 ### 📊 GitHub Metrics & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xAmr5&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAmr5&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=0xAmr5&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" max-width="480px" alt="Amr's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAmr5&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAmr5&theme=tokyonight&hide_border=true" width="100%" max-width="480px" alt="Amr's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=0xAmr5&layout=compact&theme=tokyonight&hide_border=true" width="100%" max-width="400px" alt="Amr's Top Languages" />
 </p>
 
 ---
