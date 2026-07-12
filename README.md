@@ -45,15 +45,9 @@ Result-driven **Full-Stack Software Engineer** specializing in robust Backend Ar
 ### 📊 GitHub Metrics & Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xAmr5&theme=tokyonight&bg_color=0a0b0d&hide_border=true" width="100%" max-width="500px" alt="Amr's Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=0xAmr5&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" width="100%" max-width="480px" alt="Amr's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=0xAmr5&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" max-width="400px" alt="Amr's Top Languages" />
+  <img src="https://img.shields.io/github/followers/0xAmr5?label=Followers&style=for-the-badge&color=D4AF37&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/directory/0xAmr5?label=Repositories&style=for-the-badge&color=00f0ff&logo=github" />
+  <img src="https://img.shields.io/github/commit-activity/y/0xAmr5?label=Commits+This+Year&style=for-the-badge&color=a29bfe&logo=github" />
 </p>
 
 ---
