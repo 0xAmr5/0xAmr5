@@ -49,11 +49,11 @@ Result-driven **Full-Stack Software Engineer** specializing in robust Backend Ar
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.allandacht.dev/api?username=0xAmr5&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" max-width="480px" alt="Amr's GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=0xAmr5&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" width="100%" max-width="480px" alt="Amr's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.allandacht.dev/api/top-langs/?username=0xAmr5&layout=compact&theme=tokyonight&hide_border=true" width="100%" max-width="400px" alt="Amr's Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=0xAmr5&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" max-width="400px" alt="Amr's Top Languages" />
 </p>
 
 ---
