@@ -1,63 +1,81 @@
-# 👋 Hi, I'm Amr Othman | Elite Full-Stack Software Engineer
+Amr Othman
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Node.js+and+NestJS+Expert;Enterprise+Systems+Architect" alt="Typing SVG" />
-</p>
+Full-Stack Software Engineer | Cairo, Egypt
 
----
+Architecting production web applications, RESTful APIs, and real-time operational SaaS platforms.
 
-### 🚀 About Me
-Result-driven **Full-Stack Software Engineer** specializing in robust Backend Architectures and high-performance Web Applications. Deployed multiple secure, production-grade SaaS and CRM environments handling real-world clients and production traffic. Deploys zero-trust security ecosystems and clean, highly responsive user interfaces.
+Engineering Overview
 
-- 🎓 Studying Computer Science at **Arab Open University**
-- 🛡️ Focus: Zero-Trust Architectures, Caching, and High-Availability Distributed Systems
-- ✉️ Reach me at: **amrothman154@gmail.com**
-- 📱 WhatsApp: **[+20 100 969 4831](https://wa.me/201009694831)**
+I build end-to-end software systems—from designing normalized/NoSQL database schemas and securing Node.js REST APIs to shipping responsive, low-latency React interfaces.
 
----
+Core Focus: Multi-role SaaS platforms, Role-Based Access Control (RBAC), real-time operational dashboards, and cloud media pipelines.
 
-### 🛠️ Technical Arsenal
+Education: B.Sc. in Computer Science — Arab Open University (Cairo, Egypt).
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B0A.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3578ea?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+Training: Backend Software Development Diploma (Node.js / Express / MongoDB) — Route Academy.
 
----
+Technical Stack
 
-### 📊 GitHub Metrics & Analytics
+Domain
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/0xAmr5?label=Followers&style=for-the-badge&color=D4AF37&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/directory/0xAmr5?label=Repositories&style=for-the-badge&color=00f0ff&logo=github" />
-  <img src="https://img.shields.io/github/commit-activity/y/0xAmr5?label=Commits+This+Year&style=for-the-badge&color=a29bfe&logo=github" />
-</p>
+Technologies
 
----
+Frontend
 
-### 💎 Exclusive Showcase
+React.js (v18) · JavaScript (ES6+) · TypeScript · Tailwind CSS · HTML5 / CSS3 · Vite
 
-> "هل ترغب في تحويل هويتك المهنية إلى واجهة رقمية مشرفة؟ نصمم لأصحاب النخبة والمهن الرفيعة بروتفوليو احترافي بلمسة هندسية متفردة تجذب لك أرقى العملاء."
->
-> ⚡ **تواصل مع المهندس عمرو عثمان مباشرة عبر واتساب:** **[01009694831](https://wa.me/201009694831)**
+Backend & Security
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xAmr5&color=d4af37&style=flat-square&label=PROFILE+VIEWS" alt="Amr's Profile Views" />
-</p>
+Node.js · Express.js · RESTful APIs · JWT Authentication · RBAC · Bcrypt
+
+Databases & Cloud
+
+MongoDB · Mongoose ODM · Firebase (Firestore & Realtime DB) · Cloudinary · AWS (EC2, S3, IAM) · Vercel
+
+Languages & CS
+
+Java · Python · Git & GitHub · Postman · OOP · Data Structures & Algorithms
+
+Selected Production Systems
+
+1. Mahmoud Shabaan Law Firm SaaS
+
+Stack: React 18 · Tailwind CSS · Cloud Firestore · Cloudinary · JWT · RBAC
+
+Commercial legal management platform digitizing case archiving, court session schedules, role-based workspaces for lawyers, and encrypted document storage with a client tracking portal.
+
+Live Deployment
+
+2. TransitFlow Fleet Operations
+
+Stack: JavaScript (ES6+) · Firebase Realtime DB · Role-Based Auth · SPA
+
+Real-time fleet dispatch and transit operations engine handling daily bus manifests, driver trip logs, automated expense tracking, and admin treasury auditing.
+
+Live Deployment
+
+3. SARAHA APP — Backend RESTful API
+
+Stack: Node.js · Express.js · MongoDB · Mongoose · JWT · Cloudinary
+
+Modular MVC backend service featuring stateless JWT authentication, email verification workflows, Bcrypt password hashing, and automated media upload pipelines.
+
+4. Dairut Doctors Directory
+
+Stack: React.js · Firebase Firestore · Tailwind CSS · Vercel
+
+Centralized medical search directory indexing clinics, specialties, and diagnostic labs with instant client filtering and real-time cloud synchronization.
+
+Live Deployment
+
+GitHub Activity
+
+Contact
+
+Portfolio: amr-othman-portfolio.vercel.app
+
+LinkedIn: linkedin.com/in/x-amr-othman-x1
+
+Email: amrothman154@gmail.com
+
+WhatsApp: +20 100 969 4831
